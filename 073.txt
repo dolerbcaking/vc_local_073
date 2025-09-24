@@ -1,0 +1,14 @@
+# Initialize a local repo
+git init
+
+# Check the status of working and staging areas
+git status
+
+# Add files to staging area
+git add <file>
+
+# Commit changes from staging to repository
+git commit -m "Your message"
+
+# Clone a repo with a new name
+git clone <url> <new-folder-name>
